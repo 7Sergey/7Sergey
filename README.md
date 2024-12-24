@@ -8,6 +8,3 @@
 [![codewars](https://www.codewars.com/users/7Sergey/badges/large)](https://www.codewars.com/users/7Sergey)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=7Sergey&theme=dark)](https://git.io/streak-stats)
