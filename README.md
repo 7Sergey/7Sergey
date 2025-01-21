@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Sergey;+A+Web+Developer)](https://git.io/typing-svg)
 
 ---
-![Your contributions](https://github-readme-streak-stats.herokuapp.com/?user=7Sergey)
-
 ### 🛠️ Tech Stack
 
 #### Frontend
