@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Sergey;+A+Web+Developer)](https://git.io/typing-svg)
 
----
+
+### 🌍 Portfolio
+🖥️ [Visit my portfolio](https://portfolio-tau-one-22.vercel.app/)
+
 ### 🛠️ Tech Stack
 
 #### Frontend
