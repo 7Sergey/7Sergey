@@ -40,5 +40,4 @@
 
 ### 🔗 Connect with Me
 
-- Telegram: [@sergeyf7](https://t.me/sergeyf7)
 - Email: [sergey14fedorov@gmail.com](mailto:sergey14fedorov@gmail.com)
